@@ -42,7 +42,7 @@
 			<configuration>
 				<archive>
 					<manifest>
-						<mainClass>>com.gliss.MainServlet</mainClass>
+						<mainClass>com.gliss.MainServlet</mainClass>
 					</manifest>
 				</archive>
 			</configuration>
