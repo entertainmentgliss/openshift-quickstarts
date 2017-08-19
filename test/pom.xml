@@ -69,7 +69,7 @@
 		<profile>
 			<id>flat-classpath-jar</id>
 			<build>
-				<finalName>undertow-servlet</finalName>
+				<finalName>test</finalName>
 				<plugins>
 					<plugin>
 						<artifactId>maven-dependency-plugin</artifactId>
