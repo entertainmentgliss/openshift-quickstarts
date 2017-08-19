@@ -58,7 +58,7 @@
 						<configuration>
 							<archive>
 								<manifest>
-									<mainClass>com.gliss.MainServlet</mainClass>
+									<mainClass>com.gliss.MainClass</mainClass>
 								</manifest>
 							</archive>
 						</configuration>
@@ -101,5 +101,4 @@
 			</build>
 		</profile>
 	</profiles>
-	<packaging>pom</packaging>
 </project>
